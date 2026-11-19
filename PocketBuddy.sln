@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.31903.59
+# Visual Studio Version 18
+VisualStudioVersion = 18.12.12412.261 stable
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "backend", "backend", "{1AE8ACA6-933B-BF2A-3671-3E2EAC007D16}"
 EndProject
@@ -94,5 +94,11 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{2D7BE503-2494-4504-A649-B556E4832B0E} = {1AE8ACA6-933B-BF2A-3671-3E2EAC007D16}
 		{1169C342-1915-44DA-9758-F49EC61353F4} = {0AB3BF05-4346-4AA6-1389-037BE0695223}
+		{97AE8933-C801-4F4A-9AEA-5B16CF54B54C} = {1AE8ACA6-933B-BF2A-3671-3E2EAC007D16}
+		{14E30654-2B48-4D24-99E0-BE93AD8C7A83} = {1AE8ACA6-933B-BF2A-3671-3E2EAC007D16}
+		{9193BFDC-1953-4670-9BFF-2C7CDDA28B01} = {1AE8ACA6-933B-BF2A-3671-3E2EAC007D16}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D6DC1D1-99B9-4A85-9EEC-1743F088EFC7}
 	EndGlobalSection
 EndGlobal
